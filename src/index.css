@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding-left: 30%;
+  padding-right: 30%;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #3e5151;
+  background: -webkit-linear-gradient(to right, #4056a1, #4b0082, #3e5151);
+  background: linear-gradient(to right, #4056a1, #4b0082, #3e5151);
+}
+
+* {
+  margin: 0;
+}
+
+code {
+  font-family: Menlo, Monaco, Consolas, "Courier New", monospace;
+}
